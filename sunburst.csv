@@ -1,19 +1,19 @@
 indicatorcategory,indicator,datamethods,indicator_short,data_short,val
 Input,Total Annual PKR spend on program,Financial records of SHPI,Annual Program Spend (PKR),SHPI Financial Records,1.5
-Input,Amount PKR paid for to State Life Insurance per beneficiary.,Financial records OF SHPI,State Life Insurance Cost per Beneficiary,SHPI Financial Records,1.5
+Input,Amount PKR paid for to State Life Insurance per beneficiary.,Financial records OF SHPI,State Life Ins. Cost per Beneficiary,SHPI Financial Records,1.5
 Input,"Total Annual PKR spend on adminitrative expenses (salaries, logistics, administrative)",Administrative reports of SHPI,Annual Admin Expenses (PKR),SHPI Admin Reports,1.5
 Input,"Number of staff (SHPI office, hospital facilitators)",HR records of SHPI,"Staff Count (Office, Facilitators)",SHPI HR Records,1.5
-Input,"Number of panel hospitals (public vs. private, rural vs. urban)",Administrative records of SHPI,"Panel Hospitals (Public/Private, Rural/Urban)",SHPI Admin Records,1.5
+Input,"Number of panel hospitals (public vs. private, rural vs. urban)",Administrative records of SHPI,"Panel Hosp. (Public/Private, Rur./Urb.)",SHPI Admin Records,1.5
 Input,Number of days taken for beneficiary data updating. (MIS functionality),IT department reports of SHPI,Data Update Time (Days),SHPI IT Reports,1.5
 Input,"Total numbers of Feedback received and implemented from beneficiaries, yearly (feedback indicators from activities)","Feedback records of Beneficiary (NADRA call center, hospital proforma ",Feedback Received & Implemented,Beneficiary Feedback,1.5
 Input,Nnumber of surgeries conducted by fresh or under practice doctors. (Mechanisms to prevent fraud and misuse.),N/A,Surgeries by Inexperienced Doctors,N/A,1.5
-Input,Number of staff trained in inclusive data handling and outreach.,Administrative records of SHPI,"Staff Trained (Data Handling, Outreach)",SHPI Admin Records,1.5
+Input,Number of staff trained in inclusive data handling and outreach.,Administrative records of SHPI,"Staff Train. (Data Hand., Outreach)",SHPI Admin Records,1.5
 Input,Number of vehicles for program staff mobility.,Administrative records of SHPI,Program Vehicles,SHPI Admin Records,1.5
-Input,Number of outreach initiatives targeting vulnerable groups.,outreach records of SHPI,Outreach Initiatives (Vulnerable Groups),SHPI Outreach Records,1.5
+Input,Number of outreach initiatives targeting vulnerable groups.,outreach records of SHPI,Outreach Init. (Vulnerable Groups),SHPI Outreach Records,1.5
 Process,Nunber of the new citizens registered annually,Enrollment database (MIS),New Citizens Registered,Enrollment Database,1.3
 Process,Number of days taken for registration and CNIC-based enrollment,NADRA database reports,Enrollment Time (Days),NADRA Reports,1.3
-Process,Number of awareness campaigns conducted (rural vs urban),OUtreach records of SHPI,Awareness Campaigns (Rural/Urban),SHPI Outreach Reports,1.3
-Process,Number of Population reached through awareness (male/female) (rural/urban),Outreach reports of SHPI,"Population Reached (Male/Female, Rural/Urban)",SHPI Outreach Reports,1.3
+Process,Number of awareness campaigns conducted (rural vs urban),OUtreach records of SHPI,Aware. Campaigns (Rural/Urban),SHPI Outreach Reports,1.3
+Process,Number of Population reached through awareness (male/female) (rural/urban),Outreach reports of SHPI,"Pop. Reached (M/F, Rural/Urban)",SHPI Outreach Reports,1.3
 Process,Number of days taken for treatment and surgeries,"Feedback records of Beneficiary (NADRA call center, hospital proforma ",Treatment/Surgeries Time (Days),Beneficiary Feedback,1.3
 Process,Number of days taken for claim processing,MIS,Claim Processing Time (Days),MIS,1.3
 Process,Number of beneficiaries with feedback provided. ,"Feedback records of Beneficiary (NADRA call center, hospital proforma ",Feedback Provided by Beneficiaries,Beneficiary Feedback,1.3
@@ -31,8 +31,8 @@ Output,Ratio of satisfied vs. dissatisfied users,"Feedback records of Beneficiar
 Output,"Number of services utilized by (rural/urban, gender, income groups).",MIS ,Services Utilized (Demographics),MIS,1.1
 Output,Increase in the number of private healthcare providers joining the panel.,SLIC contracts,Private Providers Joining Panel,SLIC Contracts,1.1
 Outcome,Number of beneficiaries paid for their health,Beneficiary surveys,Beneficiaries Paid for Health,Beneficiary Surveys,1.2
-Outcome,Number of households avoiding catastrophic health expenditure (rural/urban),"Beneficiary surveys, household surveys",Households Avoiding Catastrophic Health Spend,Surveys (Beneficiary/HH),1.2
-Outcome,"Number of households started spending on education, food, and hygiene",Household surveys,"Household Spend on Education, Food, Hygiene",Household Surveys,1.2
+Outcome,Number of households avoiding catastrophic health expenditure (rural/urban),"Beneficiary surveys, household surveys",HH Avoiding Catastrophic Health Spend,Surveys (Beneficiary/HH),1.2
+Outcome,"Number of households started spending on education, food, and hygiene",Household surveys,"HH Spend on Education, Food, Hygiene",Household Surveys,1.2
 Outcome,Number of beneficiaries reporting increased access to healthcare (rural/urban),Beneficiary surveys,Increased Access to Healthcare,Beneficiary Surveys,1.2
 Outcome,Utilization of services in rural vs. urban areas,MIS,Rural vs. Urban Service Utilization,MIS,1.2
 Impact,"Number of households reported reduction in disease burden (maternal mortality, chronic illnesses)",Health department records,Reduced Disease Burden,Health Dept. Records,1.1
@@ -45,5 +45,5 @@ Sustainability,Ratio of program costs to total health budget,Financial records o
 Sustainability,Ratio of program costs to projected and actual outcomes,N/A,Cost-to-Outcome Ratio,N/A,1
 Sustainability,Amount (PKR) of funding secured from external vs. internal sources,Financial records of SHPI,External vs. Internal Funding (PKR),SHPI Financial Records,1
 Sustainability,Availability of updated IT systems and infrastructure,IT department reports,Updated IT Systems,IT Reports,1
-Sustainability,Expansion rate of panel hospitals and services offered (Districts or urban vs rural),MIS,Panel Expansion Rate (Hospitals & Services),MIS,1
+Sustainability,Expansion rate of panel hospitals and services offered (Districts or urban vs rural),MIS,Panel Expans. Rate (Hospitals & Services),MIS,1
 Sustainability,Adoption of eco-friendly practices in hospitals and logistics,N/A,Eco-Friendly Practices Adoption,N/A,1
